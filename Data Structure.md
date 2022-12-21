@@ -25,3 +25,7 @@ However complexity of the program increases, the linear data structures might no
 title: Info.
 Non-linear data structures are further divided into graph and tree based data structures.
 ```
+
+### #data-structures
+
+- [[Stack]]
