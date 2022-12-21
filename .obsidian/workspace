@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "2fece1f751dca08a",
+    "type": "split",
+    "children": [
+      {
+        "id": "68a1d12c4c62f41e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "System Design.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "72001f34652ffffe",
+    "type": "split",
+    "children": [
+      {
+        "id": "104125b59608945e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb9781ab3a2dc2b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4e93d48818f19585",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Project-XXX",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 186.5
+  },
+  "right": {
+    "id": "f3991de22f5c4313",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bb6445004ee1100",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d56402901a8fdfd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "System Design.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "68a1d12c4c62f41e",
+  "lastOpenFiles": [
+    "Logic.md",
+    "Steps.md",
+    "System Design.md",
+    "GetAuthz.md",
+    "Tenant.md",
+    "WebAuthm.md",
+    "Assets/Pasted image 20220702210550.png",
+    "Workflow.md",
+    "Assets/Screenshot 2022-07-09 at 22.50.05.png",
+    "Assets/Screenshot 2022-07-02 at 22.21.32.png"
+  ]
+}
