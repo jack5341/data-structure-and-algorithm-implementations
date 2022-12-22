@@ -100,3 +100,31 @@ func Peek(queue []Event) Event {
 	return element
 }
 ```
+
+## Applications of Queue
+
+-   CPU scheduling, Disk Scheduling
+-   When data is transferred asynchronously between two processes.The queue is used for synchronization. For example: IO Buffers, pipes, file IO, etc
+-   Handling of interrupts in real-time systems.
+-   Call Center phone systems use Queues to hold people calling them in order.
+
+## Types of Queue
+
+There are four different types of queues:
+-   #simple-queue
+	In a simple queue, insertion takes place at the rear and removal occurs at the front. It strictly follows the FIFO (First in First out) rule.
+	
+-   #circular-queue
+	In a [[Circular Queue]], the last element points to the first element making a circular link. The main advantage of a circular queue over a simple queue is better memory utilization. If the last position is full and the first position is empty, we can insert an element in the first position. This action is not possible in a simple queue.
+	
+	![[circular-queue.png]]
+	
+-   #priority-queue
+	A [[Priority Queue]] is a special type of queue in which each element is associated with a priority and is served according to its priority. If elements with the same priority occur, they are served according to their order in the queue. Insertion occurs based on the arrival of the values and removal occurs based on priority.
+
+ ![[priority-queue.png]]
+ 
+-   #double-ended-queue
+	In a [[Double Queue]], insertion and removal of elements can be performed from either from the front or rear. Thus, it does not follow the FIFO (First In First Out) rule.
+	
+![[double-queue.png]]
