@@ -29,3 +29,4 @@ Non-linear data structures are further divided into graph and tree based data st
 ### #data-structures
 
 - [[Stack]]
+- [[Queue]]
